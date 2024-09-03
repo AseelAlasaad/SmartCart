@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCart", "SmartCart\SmartCart.csproj", "{D962D70B-EE86-4988-9F27-9104512083E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D962D70B-EE86-4988-9F27-9104512083E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D962D70B-EE86-4988-9F27-9104512083E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D962D70B-EE86-4988-9F27-9104512083E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D962D70B-EE86-4988-9F27-9104512083E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C23797C2-0775-44AA-8A8F-12AB8CD53D6B}
+	EndGlobalSection
+EndGlobal
